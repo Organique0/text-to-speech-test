@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+A concept of an component that converts text to speech using AI from the Elevenlabs API.
+Could be later implemented in to a real app.
+Author: @leonvanzyl 
+Link: https://www.youtube.com/watch?v=uhqJvIUES7k
+
 
 ## Getting Started
 
