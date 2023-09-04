@@ -1,5 +1,9 @@
 A concept of an component that converts text to speech using AI from the Elevenlabs API.
+
+Files can be stored localy or hosted on AWS.
+
 Could be later implemented in to a real app.
+
 Author: @leonvanzyl 
 Link: https://www.youtube.com/watch?v=uhqJvIUES7k
 
